@@ -6,4 +6,5 @@ life is short you need to learn something new everyday.
 
 creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
->>>>>>> feature1
+
+gitmerge no-ff dev
