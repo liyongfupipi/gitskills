@@ -8,3 +8,4 @@ creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 
 gitmerge no-ff dev
+a new branch is created from dev and merged without fast-forward.
